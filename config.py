@@ -1,9 +1,9 @@
 # ============================================================
-#Group Manager Bot
-# Author: LearningBotsOfficial (https://github.com/LearningBotsOfficial) 
-# Support: https://t.me/LearningBotsCommunity
-# Channel: https://t.me/learning_bots
-# YouTube: https://youtube.com/@learning_bots
+# Group Manager Bot
+# Author: Pravin (https://github.com/cyberpravin)
+# Support: https://t.me/pravin_bio
+# Channel: https://t.me/pravin_bio
+# YouTube: https://www.youtube.com/@mrhacked2.0
 # License: Open-source (keep credits, no resale)
 # ============================================================
 
@@ -18,9 +18,9 @@ DB_NAME = os.getenv("DB_NAME", "Cluster0")
 
 # Owner and bot details
 OWNER_ID = int(os.getenv("OWNER_ID", 0))
-BOT_USERNAME = os.getenv("BOT_USERNAME", "NomadeHelpBot")
+BOT_USERNAME = os.getenv("BOT_USERNAME", "khatarnak_help_bot")
 
 # Links and visuals
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/LearningBotsCommunity")
-UPDATE_CHANNEL = os.getenv("UPDATE_CHANNEL", "https://t.me/Learning_Bots")
-START_IMAGE = os.getenv("START_IMAGE", "https://files.catbox.moe/j2yhce.jpg")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/KHATARNAK_bothelp")
+UPDATE_CHANNEL = os.getenv("UPDATE_CHANNEL", "https://t.me/pravin_bio")
+START_IMAGE = os.getenv("START_IMAGE", "https://primitive-olive-coptw1kusn.edgeone.app/file_00000000797c72079bdbb8a6690d59c8.png")
