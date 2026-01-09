@@ -1,9 +1,9 @@
 # ============================================================
-#Group Manager Bot
-# Author: LearningBotsOfficial (https://github.com/LearningBotsOfficial) 
-# Support: https://t.me/LearningBotsCommunity
-# Channel: https://t.me/learning_bots
-# YouTube: https://youtube.com/@learning_bots
+# Group Manager Bot
+# Author: Pravin (https://github.com/cyberpravin)
+# Support: https://t.me/pravin_bio
+# Channel: https://t.me/pravin_bio
+# YouTube: https://www.youtube.com/@mrhacked2.0
 # License: Open-source (keep credits, no resale)
 # ============================================================
 pyrogram==2.0.106
